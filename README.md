@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programming and football
 
-- 🌱 I’m currently learning Python, C++, Calculus
+- 🌱 I’m currently learning Python, C++ for CPP, Math
 
 - 💞️ I’m looking to collaborate on ...
 
