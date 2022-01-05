@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Vũ Duy Tùng
 
-- 👀 I’m interested in programming and football
+- 👀 I’m interested in programming
 
-- 🌱 I’m currently learning Python, C++ for CPP, Math
+- 🌱 I’m currently learning Python, C++ for CP, and Math
 
 - 💞️ I’m looking to collaborate on ...
 
