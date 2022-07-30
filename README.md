@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in programming
 
-- 🌱 I’m currently learning Python, C++ for CP, and Math
+- 🌱 I’m currently learning Machine Learning, Competitive Programming. 
 
 - 💞️ I’m looking to collaborate on ...
 
