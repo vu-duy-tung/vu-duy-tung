@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Machine Learning, Competitive Programming. 
 
-- 💞️ I’m looking to collaborate on ML project
+- 💞️ I’m looking to collaborate on AI project
 
 - 📫 How to reach me:
 Email: 21tung.vd@vinuni.edu.vn
