@@ -16,7 +16,8 @@ Facebook: https://www.facebook.com/tung.vuduy.54/
 
 ## Some of my upcoming projects
 - [Competitive Programming Algorithms](https://github.com/vu-duy-tung/CP-Algorithm)
-
+- [Math note for Machine Learning (and do math)]()
+- [Machine Learning from scratch]()
 
 ## My high school
 Here is where I started learning algorithms. I spent most of my "youth" here, to learn kind of Graph, Dynamic Programming, Greedy, etc.
