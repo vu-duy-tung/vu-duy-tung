@@ -15,4 +15,4 @@ Email: 21tung.vd@vinuni.edu.vn
 Facebook: https://www.facebook.com/tung.vuduy.54/
 
 ## Some of my upcoming projects
-- [Competitive Programming Algorithm](#https://github.com/vu-duy-tung/CP-Algorithm)
+- [Competitive Programming Algorithm](https://github.com/vu-duy-tung/CP-Algorithm)
