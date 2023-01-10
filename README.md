@@ -19,5 +19,6 @@ Facebook: https://www.facebook.com/tung.vuduy.54/
 
 
 ## My high school
-This is where I started learning algorithm
+Here is where I started learning algorithms. I spent most of my "youth" here, to learn kind of Graph, Dynamic Programming, Greedy, etc.
+
 ![my high school](https://scontent.fhan14-2.fna.fbcdn.net/v/t39.30808-6/236899554_4442753122449664_2061037371683072666_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=o728dy07cfUAX8EeWzz&_nc_ht=scontent.fhan14-2.fna&oh=00_AfDAGMYIouAarwyves0QArHFO4ucajkgxM64vM_6pNSgCw&oe=63C2AC86)
