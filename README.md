@@ -6,9 +6,9 @@
 
 - 👀 I’m interested in logic
 
-- 🌱 I’m currently learning Machine Learning, Competitive Programming enthusiast. 
+- 🌱 I’m currently a Machine Learning and Competitive Programming enthusiast. 
 
-- 💞️ I’m looking to collaborate on AI project
+- 💞️ I’m looking to collaborate on AI-related project
 
 - 📫 You can reach me via email or facebook:
 Email: 21tung.vd@vinuni.edu.vn
