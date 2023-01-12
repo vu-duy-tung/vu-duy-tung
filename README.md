@@ -16,7 +16,7 @@ Facebook: https://www.facebook.com/tung.vuduy.54/
 
 ## Some of my upcoming projects
 - [Competitive Programming Algorithms](https://github.com/vu-duy-tung/CP-Algorithm)
-- [Math note for Machine Learning (and do math)]()
+- [Math note for Machine Learning (and do math)](https://github.com/vu-duy-tung/Mathematic-for-machine-learning)
 - [Machine Learning from scratch](https://github.com/vu-duy-tung/ML-from-scratch)
 
 ## My high school
