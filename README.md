@@ -4,7 +4,7 @@
 ## Basic information
 - 👋 Hi, my name is Vũ Duy Tùng
 
-- 👀 I’m interested in logic
+- 👀 I’m interested in logic and always trying to be a beter thinker/ problem solver.
 
 - 🌱 I’m currently a Machine Learning and Competitive Programming enthusiast. 
 
