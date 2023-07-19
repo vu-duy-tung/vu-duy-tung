@@ -21,6 +21,7 @@
 - [Stanford CS229: Machine Learning course | Summer 2018 | Notes, Problems, and Solutions](https://github.com/vu-duy-tung/cs229-MLpractice)
 
 <h2>&#128200; Competitive Programming</h2>
+I have ceased my participation in competitive programming contests and am now concentrating on algorithm analysis.
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Play_With_Mino?theme=light&font=Karma&ext=activity" />
 <img height="280em" src="https://raw.githubusercontent.com/vu-duy-tung/mino-cf-stats/main/output/light_card.svg" />
