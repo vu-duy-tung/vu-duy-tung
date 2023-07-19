@@ -5,8 +5,11 @@
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
   <a href="https://codeforces.com/profile/Nisekoi">
-    <img src="https://run.kaist.ac.kr/badges/codeforces/jo_on.svg" alt="Leet code rating" />
+    <img src="https://raw.githubusercontent.com/vu-duy-tung/mino-cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
+
+
+  https://raw.githubusercontent.com/vu-duy-tung/mino-cf-stats/main/output/light_card.svg
 
 </p>
 
@@ -25,4 +28,10 @@ Email: 21tung.vd@vinuni.edu.vn
 > It is not easy to keep moving forward every millisecond. But...
 <p align="center">
   <img src="361917144_2049101378763446_9049986603324305982_n.jpg" style="width:40%;">
+</p>
+
+
+</p>
+<img height="273em" src="[https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest](https://leetcard.jacoblin.cool/Play_With_Mino?theme=dark&font=Noto%20Sans%20Old%20Permic)" />
+<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
