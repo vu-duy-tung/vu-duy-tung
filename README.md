@@ -8,9 +8,6 @@
     <img src="https://raw.githubusercontent.com/vu-duy-tung/mino-cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
 
-
-  https://raw.githubusercontent.com/vu-duy-tung/mino-cf-stats/main/output/light_card.svg
-
 </p>
 
 ## About me
