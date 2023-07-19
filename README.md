@@ -32,6 +32,6 @@ Email: 21tung.vd@vinuni.edu.vn
 
 
 </p>
-<img height="273em" src="[https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest](https://leetcard.jacoblin.cool/Play_With_Mino?theme=dark&font=Noto%20Sans%20Old%20Permic)" />
+<img height="273em" src="https://leetcard.jacoblin.cool/Play_With_Mino?theme=dark&font=Noto%20Sans%20Old%20Permic" />
 <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
