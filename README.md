@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## Basic information
+## About me
 - 👋 My name is Vũ Duy Tùng. I am a Computer Science undergraduate at VinUniversity, where I have been studying for the past two years. I am currently taking a gap year to gain more experience and skills. During my gap year, I plan to work on personal projects, intern at tech companies, and travel to learn about different cultures. I am excited to use this time to grow as a person and as a professional.
 - 👀 I seek to become a good problem solver.
 - 🌱 I’m a Machine Learning and Competitive Programming enthusiast. 
@@ -20,6 +20,7 @@ Email: 21tung.vd@vinuni.edu.vn
 ## Some of my upcoming projects
 - [Competitive Programming Algorithms](https://github.com/vu-duy-tung/CP-Algorithm)
 
+### Work harder
 > It is not easy to keep moving forward every millisecond. But...
 <p align="center">
   <img src="361917144_2049101378763446_9049986603324305982_n.jpg" style="width:40%;">
