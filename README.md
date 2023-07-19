@@ -31,7 +31,7 @@ Email: 21tung.vd@vinuni.edu.vn
 </p>
 
 
-<b>&#128200; Competitive Programming</b>
+<h2>&#128200; Competitive Programming</h2>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Play_With_Mino?theme=light&font=Karma&ext=activity" />
 <img height="280em" src="https://raw.githubusercontent.com/vu-duy-tung/mino-cf-stats/main/output/light_card.svg" />
