@@ -24,8 +24,3 @@ Email: 21tung.vd@vinuni.edu.vn
 
 ## Some of my upcoming projects
 - [Competitive Programming Algorithms](https://github.com/vu-duy-tung/CP-Algorithm)
-
-## My high school
-Here is where I started learning algorithms. I spent most of my "youth" here, to learn kind of Graph, Dynamic Programming, Greedy, etc.
-
-![my high school](https://scontent.fsgn15-1.fna.fbcdn.net/v/t39.30808-6/236899554_4442753122449664_2061037371683072666_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=Jey5QwQl9uQAX9QY9Q7&_nc_ht=scontent.fsgn15-1.fna&oh=00_AfBGd-25qejxHF3MMAa6cHTJ-hDwDP4gELkeed9XJFZq8A&oe=63CA9586)
