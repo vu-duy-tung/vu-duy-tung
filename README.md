@@ -1,4 +1,4 @@
-# Welcome to Tung's github profile
+# Welcome to Tung's GitHub profile
 
 <p align="center">
   <a href="https://leetcode.com/Play_With_Mino/">
@@ -7,6 +7,10 @@
   <a href="https://codeforces.com/profile/Nisekoi">
     <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
+  <a href="vuduycun20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Leet code rating" />
+  </a>
+
 </p>
 
 ## About me
