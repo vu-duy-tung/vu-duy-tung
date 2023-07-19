@@ -30,6 +30,6 @@
 > It is not easy to keep moving forward every millisecond. But...
 <p align="left">
   <img src="361917144_2049101378763446_9049986603324305982_n.jpg" style="width:25%;">
-  <img src="thanhminh.jpg" style="width:47%;">
+  <img src="thanhminh.jpg" style="width:43%;">
 </p>
 
