@@ -1,4 +1,4 @@
-# Welcome to Tung's workplace
+# Welcome to Tung's github profile
 
 <p align="center">
   <a href="https://leetcode.com/Play_With_Mino/">
