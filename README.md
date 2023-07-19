@@ -14,9 +14,7 @@
 - 👋 My name is Vũ Duy Tùng. I am a Computer Science undergraduate at VinUniversity, where I have been studying for the past two years. I am currently taking a gap year to gain more experience and skills. During my gap year, I plan to work on personal projects, intern at tech company, and travel to learn about different cultures. I am excited to use this time to grow as a person and as a professional.
 - 👀 I seek to become a good problem solver.
 - 🌱 I’m a Machine Learning and Competitive Programming enthusiast. 
-- 📫 You can reach me via Email or [Facebook](https://www.facebook.com/tung.vuduy.54/) or [Linkedin](https://www.linkedin.com/in/t%C3%B9ng-v%C5%A9-duy-208486203/):
-
-Email: 21tung.vd@vinuni.edu.vn
+- 📫 You can reach me via [Email](mailto:21tung.vd@vinuni.edu.vn) or [Facebook](https://www.facebook.com/tung.vuduy.54/) or [Linkedin](https://www.linkedin.com/in/t%C3%B9ng-v%C5%A9-duy-208486203/):
 
 ## Some of my ongoing/upcoming projects
 - [Competitive Programming Algorithms](https://github.com/vu-duy-tung/CP-Algorithm)
