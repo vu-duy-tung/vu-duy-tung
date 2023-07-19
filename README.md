@@ -20,7 +20,7 @@ Email: 21tung.vd@vinuni.edu.vn
 ## Some of my upcoming projects
 - [Competitive Programming Algorithms](https://github.com/vu-duy-tung/CP-Algorithm)
 
-> It is not easy to keep moving forward every millisecond.
+> It is not easy to keep moving forward every millisecond. But...
 <p align="center">
   <img src="361917144_2049101378763446_9049986603324305982_n.jpg" style="width:40%;">
 </p>
