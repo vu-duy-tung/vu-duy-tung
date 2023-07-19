@@ -5,10 +5,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
   <a href="https://codeforces.com/profile/Nisekoi">
-    <img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="vuduycun20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Leet code rating" />
+    <img src="https://run.kaist.ac.kr/badges/codeforces/jo_on.svg" alt="Leet code rating" />
   </a>
 
 </p>
