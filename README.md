@@ -21,8 +21,9 @@
 
 Email: 21tung.vd@vinuni.edu.vn
 
-## Some of my upcoming projects
+## Some of my ongoing/upcoming projects
 - [Competitive Programming Algorithms](https://github.com/vu-duy-tung/CP-Algorithm)
+- [Stanford CS229: Machine Learning course | Summer 2018 | Notes, Problems, and Solutions](https://github.com/vu-duy-tung/cs229-MLpractice)
 
 ### Work harder
 > It is not easy to keep moving forward every millisecond. But...
