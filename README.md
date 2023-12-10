@@ -16,10 +16,10 @@
 - 🌱 I’m a Machine Learning and Competitive Programming enthusiast. 
 - 📫 You can reach me via [Email](mailto:21tung.vd@vinuni.edu.vn) or [Facebook](https://www.facebook.com/tung.vuduy.54/) or [Linkedin](https://www.linkedin.com/in/t%C3%B9ng-v%C5%A9-duy-208486203/):
 
-## Some of my ongoing/upcoming projects
+## Some of my ongoing/upcoming works
 - [Competitive Programming Algorithms](https://github.com/vu-duy-tung/CP-Algorithm)
-- [Stanford CS229: Machine Learning course | Summer 2018 | Notes, Problems, and Solutions](https://github.com/vu-duy-tung/cs229-MLpractice)
-
+- Build chatbot with RASA
+- 
 <h2>&#128200; Competitive Programming</h2>
 I have ceased my participation in competitive programming contests and am now concentrating on algorithm analysis.
 <p float="left">
