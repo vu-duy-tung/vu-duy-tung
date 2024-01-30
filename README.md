@@ -18,7 +18,6 @@
 
 ## Some of my ongoing/upcoming works
 - Competitive Programming Algorithms
-- Build chatbot with RASA
 
 <h2>&#128200; Competitive Programming</h2>
 I have ceased my participation in competitive programming contests and am now concentrating on algorithm analysis.
