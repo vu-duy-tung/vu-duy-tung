@@ -11,16 +11,12 @@
 </p>
 
 ## About me
-- 👋 My name is Vũ Duy Tùng. I am a Computer Science undergraduate at VinUniversity, where I have been studying for the past two years. I am currently taking a gap year to gain more experience and skills. During my gap year, I plan to work on personal projects, intern at tech company, and travel to learn about different cultures. I am excited to use this time to grow as a person and as a professional.
-- 👀 I seek to become a good problem solver.
-- 🌱 I’m a Machine Learning and Competitive Programming enthusiast. 
+- 👋 My name is Vũ Duy Tùng. I am a Computer Science undergraduate at VinUniversity.
+- 👀 I seek to become a good researcher, programmer, and problem solver.
 - 📫 You can reach me via [Email](mailto:21tung.vd@vinuni.edu.vn) or [Facebook](https://www.facebook.com/tung.vuduy.54/) or [Linkedin](https://www.linkedin.com/in/t%C3%B9ng-v%C5%A9-duy-208486203/):
 
-## Some of my ongoing/upcoming works
-- Competitive Programming Algorithms
-
 <h2>&#128200; Competitive Programming</h2>
-I have ceased my participation in competitive programming contests and am now concentrating on algorithm analysis.
+I have ceased my participation in competitive programming contests and am now concentrating on Machine Learning.
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/Play_With_Mino?theme=light&font=Karma&ext=activity" />
 <img height="280em" src="https://raw.githubusercontent.com/vu-duy-tung/mino-cf-stats/main/output/light_card.svg" />
