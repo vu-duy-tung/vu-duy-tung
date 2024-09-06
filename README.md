@@ -1,9 +1,6 @@
 # Welcome to Tung's GitHub profile
 
 <p align="center">
-  <a href="https://leetcode.com/Play_With_Mino/">
-    <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
-  </a>
   <a href="https://codeforces.com/profile/Nisekoi">
     <img src="https://raw.githubusercontent.com/vu-duy-tung/mino-cf-stats/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
