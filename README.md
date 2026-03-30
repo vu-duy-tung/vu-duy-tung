@@ -8,7 +8,7 @@
 </p>
 
 ## About me
-- 👋 My name is Vũ Duy Tùng. I am a Computer Science undergraduate at VinUniversity.
+- 👋 My name is Vũ Duy Tùng.
 - 👀 I seek to become a good researcher, programmer, and problem solver.
 - 📫 You can reach me via [Email](mailto:21tung.vd@vinuni.edu.vn) or [Facebook](https://www.facebook.com/tung.vuduy.54/) or [Linkedin](https://www.linkedin.com/in/t%C3%B9ng-v%C5%A9-duy-208486203/):
 
